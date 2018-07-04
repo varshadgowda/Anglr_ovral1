@@ -1,0 +1,10 @@
+.red{
+	border:solid 1px red;
+}
+h1{
+	text-align: center;	
+}
+#clr{
+	background-color: orange;
+	border-color: orange;
+}
